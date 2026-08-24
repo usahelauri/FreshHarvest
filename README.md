@@ -4,7 +4,7 @@
 
 ## Открыть сайт
 
-**[Посмотреть опубликованную версию](https://fresh-harvest-offer.usahelauri.chatgpt.site)**
+**[Посмотреть сайт на GitHub Pages](https://usahelauri.github.io/FreshHarvest/)**
 
 ## Локальный запуск
 
