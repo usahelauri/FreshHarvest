@@ -6,6 +6,8 @@
 
 **[Посмотреть сайт на GitHub Pages](https://usahelauri.github.io/FreshHarvest/)**
 
+Версия с контактами CollCreat: **[открыть](https://usahelauri.github.io/FreshHarvest/collcreat/)**
+
 ## Локальный запуск
 
 Требуется Node.js `>=22.13.0`.
