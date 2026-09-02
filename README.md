@@ -8,6 +8,8 @@
 
 Версия с контактами CollCreat: **[открыть](https://usahelauri.github.io/FreshHarvest/collcreat/)**
 
+Версия с контактами Etcape: **[открыть](https://usahelauri.github.io/FreshHarvest/etcape/)**
+
 ## Локальный запуск
 
 Требуется Node.js `>=22.13.0`.
